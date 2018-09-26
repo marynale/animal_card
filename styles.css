@@ -1,0 +1,42 @@
+body {
+	font-family: 'Helvetica', sans-serif;
+  width: 350px;
+  box-shadow: 10px 10px 16px 0 rgba(193,204,192,1);
+}
+h3 {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+.fact {
+	font-style: italic;
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list span {
+  font-weight: bold;
+}
+#card {
+  border: groove;
+  border-color: aquamarine;
+	background-image: url(images/watercolour.jpg);
+	background-image: no-repeat;
+}
+#information {
+  border: groove;
+  border-color: aquamarine;
+  padding: 15px;
+	padding-bottom: 0
+}
+.item img {
+	width: 300px;
+  display: block;
+  margin: 0 auto 15px auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  border: groove;
+  border-color: aquamarine
+}
